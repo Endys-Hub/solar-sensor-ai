@@ -10,14 +10,14 @@ Many households in countries like Nigeria experience frequent power outages and 
 
 However, solar energy production changes depending on weather conditions, sunlight intensity, and time of day. Many users cannot easily predict how much energy their solar systems will generate.
 
+My personal motivation comes from the unreliable electricity supply in my region. Many homes invest in solar systems but still struggle to manage their energy usage efficiently. This project explores how AI can help households make smarter energy decisions.
+
 ### This project aims to solve the following problems:
 
 1. People cannot easily estimate daily solar power generation
 2. Poor energy planning leads to battery drain
 3. Many households still depend on fuel generators
 4. Solar energy may be underutilized due to lack of forecasting
-
-My personal motivation comes from the unreliable electricity supply in my region. Many homes invest in solar systems but still struggle to manage their energy usage efficiently. This project explores how AI can help households make smarter energy decisions.
 
 ## How is it used?
 SolarSense AI would work as a small application or dashboard.
